@@ -1,0 +1,131 @@
+* {
+  padding: 0%;
+  box-sizing: border-box;
+  margin: 0%;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0%;
+  background: #d9d9d9;
+}
+header .logo {
+  justify-content: space-between;
+  margin-left: 130px;
+}
+.headline {
+  display: flex;
+  width: 715px;
+}
+.headline .books {
+  color: #a62b28;
+  margin-right: 38px;
+}
+.headline .middle {
+  margin-left: 38px;
+  margin-right: 38px;
+}
+.headline .last {
+  margin-left: 38px;
+}
+
+.mainpic {
+  max-width: 1180px;
+  max-height: 287px;
+  margin-top: 160px;
+  margin-left: 130px;
+  margin-bottom: 160px;
+}
+.section {
+  display: flex;
+  margin-left: 130px;
+}
+.leaf {
+  margin-right: 40px;
+}
+h1 {
+  width: 393px;
+  height: 51px;
+  font-size: 32px;
+  line-height: 51.48px;
+  color: #717276;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.wignebi {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 130px;
+  flex-direction: row;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 38.61px;
+  color: #717276;
+}
+h3 {
+  font-size: 23px;
+  line-height: 29.53px;
+  color: #000000;
+  max-width: 380px;
+}
+h3 {
+  font-size: 23px;
+  line-height: 38.61px;
+  color: #000000;
+}
+.zaira {
+  margin-right: 130px;
+}
+.eka {
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+.section2 {
+  display: flex;
+  margin-left: 130px;
+  margin-top: 160px;
+}
+.pencil {
+  margin-right: 40px;
+}
+.authors {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 130.5px;
+  margin-right: 129.5px;
+  margin-top: 40px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-height: 280px;
+  margin-top: 160px;
+  background-color: #d9d9d9;
+}
+.foot {
+  margin-left: 130px;
+  height: 106px;
+  font-size: 24px;
+  margin-bottom: 70px;
+  margin-top: 71px;
+}
+.media {
+  margin-right: 130px;
+  margin-bottom: 171px;
+}
